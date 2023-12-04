@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uMWFgdNhl5jYUlpI5k1Bl0uv2RqEAwGeTbM5DAkwBxnZ7vhFIkJqJsB4gYTmtyfotya5T6TXZsIIaMkW/Mc0Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\javil\\Desktop\\2DAM\\gigante de jagger\\c#\\FuerzaBrutaMultihilo\\FuerzaBrutaMultihilo\\RickMortyAPI1\\RickMortyAPI1\\RickMortyAPI1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\javil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
